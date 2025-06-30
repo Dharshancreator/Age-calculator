@@ -2,7 +2,7 @@
 
 A simple web-based Age Calculator that lets users calculate their age based on their date of birth.
 
-## 🔧 Features
+##  Features
 
 - Takes date of birth as input.
 - Calculates age in years.
@@ -11,7 +11,7 @@ A simple web-based Age Calculator that lets users calculate their age based on t
 
 ##Technologies Used
 
-- **HTML5 – Page structure.
+- **HTML5** – Page structure.
 - **CSS3** – Styling and layout.
 - **JavaScript** – Age calculation logic.
 
