@@ -21,7 +21,7 @@ Project Structure
 - `style.css` – Stylesheet for the page.
 - `index.js` – Script for handling age calculation.
 
-## ▶How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
